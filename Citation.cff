@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Project Hannibal"
+abstract: "Open-source terminal intelligence engine integrating orbital telemetry, seismic endpoints, and financial filings."
+type: software
+authors:
+  - family-names: "Noffels"
+    given-names: "Bram Emmanuel"
+    orcid: "https://orcid.org/0009-0006-1444-6574"
+repository-code: "https://github.com/YOUR_USERNAME/legendary-broccoli"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-11-15"
